@@ -55,7 +55,7 @@ int lastSw;
 
 bool pumpOn = false;
 
-int delayTime = 2000;
+int delayTime = 500;
 
 // =====================================================
 // FIREBASE DATABASE PATHS
